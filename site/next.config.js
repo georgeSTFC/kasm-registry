@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Hartree Kasm Registry',
+    description: 'Hartree Kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://georgeSTFC.github.io/repositoryname/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
