@@ -2,8 +2,8 @@
 
 const nextConfig = {
   env: {
-    name: 'Hartree Kasm Registry',
-    description: 'Hartree Kasm workspaces.',
+    name: 'Hartree Centre vis-E Kasm Registry',
+    description: 'Hartree Centre vis-E Kasm workspaces.',
     icon: 'https://georgeSTFC.github.io/kasm-registry/1.0/image.png',
     listUrl: 'https://georgeSTFC.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
