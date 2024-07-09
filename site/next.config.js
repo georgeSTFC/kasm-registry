@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'HC vis-E Kasm Registry',
     description: 'HC vis-E Kasm workspaces.',
-    icon: 'https://georgeSTFC.github.io/kasm-registry/image.png',
+    icon: 'https://georgeSTFC.github.io/kasm-registry/1.0/image.png',
     listUrl: 'https://georgeSTFC.github.io/kasm-registry/',    
     contactUrl: 'https://kasmweb.com/support',
   },
